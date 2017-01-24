@@ -1,0 +1,16 @@
+classes:
+	filme (título, ano, duração, arrecadação, custo, nota, gênero)
+	usuário(nome, idade)
+	ator(nome, idade)
+	diretor(nome de usuário, nome, idade, email, senha)
+	------------------------
+	classificação
+	filmes assistidos
+relações:
+	um ator participa em 0 ou mais filmes
+	um filme tem vários atores
+	um filme tem 1 diretore
+	Um diretor dirigiu 0 ou mais filmes
+	um usuário tem filmes
+	usuário classifica um filme
+	
