@@ -1,1 +1,1 @@
-# rails_ime_verao
+# IME programa de verão 2017: Desenvolvimento de aplicações web com Ruby on Rails
